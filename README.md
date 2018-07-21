@@ -36,4 +36,4 @@ Build the project and run on any simulator or device with Android 5.0 or higher
 
 ## Note
 
-First created as a project for HackUVA and is being futher developed with a UVA professor to deploy in school.
+First created as a project for HackUVA and is being futher developed with a UVA professor to deploy at the university.
