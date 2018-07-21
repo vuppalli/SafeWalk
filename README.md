@@ -23,16 +23,16 @@ Build the project and run on any simulator or device with Android 5.0 or higher
 
 ## Built With
 
-[Android Studio](https://developer.android.com/studio/) - app development software
-[Google Cloud Platform](https://cloud.google.com/) - used to write HTTP functions and access/save data in cloud
-[Volley](https://developer.android.com/training/volley/) - HTTP library for Android Studio
-[Google Maps Platform](https://cloud.google.com/maps-platform/) - finding and locating users
+- [Android Studio](https://developer.android.com/studio/) - app development software
+- [Google Cloud Platform](https://cloud.google.com/) - used to write HTTP functions and access/save data in cloud
+- [Volley](https://developer.android.com/training/volley/) - HTTP library for Android Studio
+- [Google Maps Platform](https://cloud.google.com/maps-platform/) - finding and locating users
 
 ## Contributors
 
-Vismita Uppalli
-Sindhu Ranga
-Stephanie Zablocki
+- Vismita Uppalli
+- Sindhu Ranga
+- Stephanie Zablocki
 
 ## Note
 
