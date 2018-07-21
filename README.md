@@ -1,4 +1,4 @@
-# SafeWalk
+# Description
 
 #SafeWalk is a student-built app that aims to provide safety for college students walking home late at night. 
 SafeWalk allows users to find another person to walk home with at night when their only other option is to walk home alone. 
