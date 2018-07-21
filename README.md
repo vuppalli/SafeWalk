@@ -28,7 +28,7 @@ Build the project and run on any simulator or device with Android 5.0 or higher
 - [Volley](https://developer.android.com/training/volley/) - HTTP library for Android Studio
 - [Google Maps Platform](https://cloud.google.com/maps-platform/) - finding and locating users
 
-## Contributors
+## Creators
 
 - Vismita Uppalli
 - Sindhu Ranga
